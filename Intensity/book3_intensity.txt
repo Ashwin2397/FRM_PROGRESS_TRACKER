@@ -1,0 +1,57 @@
+R 37 Medium_n_Pages:10 
+
+R 38 Easy_n_Pages:6 
+
+R 39 Easy_n_Pages:7_REDUNDANT? 
+
+R 40 Easy_n_Pages:6 
+
+R 41 Hard_n_Pages:16 
+
+R 42 Medium_n_Pages:9_REDUNDANT?
+R 43 Medium_n_Pages:10_REDUNDANT?
+
+R 44 Easy_n_Pages:6
+
+R 45 Medium_n_Pages:9
+
+R 46 Medium_n_Pages:8_REDUNDANT?
+R 47 Hard_n_Pages:13
+
+R 48 Hard_n_Pages:15
+
+R 49 Medium_n_Pages:11
+
+R 50 Medium_n_Pages:9
+
+R 51 Medium_n_Pages:11_REDUNDANT? [Can be grouped with R44]
+
+R 52 Easy_n_Pages:7
+R 53 Hard_n_Pages:17
+
+R 54 Medium_n_Pages:8
+
+R 55 Easy_n_Pages:7_REDUNDANT?
+
+R 56 Easy_n_Pages:6
+
+R 57 Hard_n_Pages:17_REDUNDANT?
+R 58 Hard_n_Pages:13_REDUNDANT?
+R 59 Easy_n_Pages:4
+R 60 Medium_n_Pages:8
+
+R 61 Easy_n_Pages:4
+
+R 62 Medium_n_Pages:8
+
+R 63 Medium_n_Pages:11_REDUNDANT?
+
+
+
+=====================================STATISTICS====================================
+
+TOTAL NUMBER OF READINGS: 27
+
+EASY COUNT: 9
+MED COUNT: 12
+HARD COUNT: 6
