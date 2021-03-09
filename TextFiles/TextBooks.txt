@@ -1,9 +1,0 @@
-TEXTBOOKS: 
-
-Gerhard Schroeck, Risk Management and Value Creation in Financial Institutions (New York, NY: John Wiley & Sons, 2002)
-
-James Lam, Enterprise Risk Management: From Incentives to Controls, 2nd Edition (Hoboken, NJ: John Wiley & Sons, 2014)
-
-SITES:
-
-“Implementing Robust Risk Appetite Frameworks to Strengthen Financial Institutions,” Institute of International Finance, June 2011
